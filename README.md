@@ -1,6 +1,5 @@
 # webpage1
 <!DOCTYPE html>
-<html>
 <style>
   body{
     background-color:#F8F8FF;
@@ -21,6 +20,8 @@
     color:#A9A9A9;
   }
 </style>
+<html>
+
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
