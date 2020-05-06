@@ -1,25 +1,6 @@
 # webpage1
 <!DOCTYPE html>
-<style>
-  body{
-    background-color:#F8F8FF;
-  }
-  .firsth1{
-    text-align:center;
-    color:#8FBC8F;
-  }
-  #id1{
-    color:#DC143C;
-    text-align:center;
-  }
-  #img-caption{
-    text-align:center;
-    color:#8FBC8F;
-  }
-  #tribute-info{
-    color:#A9A9A9;
-  }
-</style>
+
 <html>
 
 <head>
